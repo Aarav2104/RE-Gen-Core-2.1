@@ -1,6 +1,6 @@
 # RE-Gen-Core-2.1 — AI Research Paper Generation System
 
-ResearchGen turns a scattered collection of research material (PDFs, notes,
+RE-Gen-Core-2.1 turns a scattered collection of research material (PDFs, notes,
 text files, Word docs) plus your paper requirements into a structured,
 citation-grounded research paper draft — via a real Retrieval-Augmented
 Generation pipeline, not a single giant LLM prompt.
